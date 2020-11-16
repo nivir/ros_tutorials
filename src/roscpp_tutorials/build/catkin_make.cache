@@ -1,2 +1,0 @@
-.
--DCATKIN_DEVEL_PREFIX=/home/roy/Downloads/temp/ros_tutorials/src/roscpp_tutorials/devel -DCMAKE_INSTALL_PREFIX=/home/roy/Downloads/temp/ros_tutorials/src/roscpp_tutorials/install -G Unix Makefiles
